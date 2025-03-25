@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Karan Shah
 
-I'm a **Business Intelligence Analyst** with hands-on experience in transforming raw data into actionable insights that drive better decisions. With a strong foundation in **Power BI**, **Tableau**, **SQL**, **Excel**, and **ETL tools**, I specialize in creating interactive dashboards, automating workflows, and uncovering trends across industries including pharmaceuticals, manufacturing, and retail.
+I'm a **Business Intelligence Analyst** with hands-on experience in transforming raw data into actionable insights that drive better decisions. With a strong foundation in **Alteryx**, **Power BI**, **Tableau**, **SQL**, **Excel**, and **ETL tools**, I specialize in creating interactive dashboards, automating workflows, and uncovering trends across industries including pharmaceuticals, manufacturing, and retail.
 
-Having worked at companies like **Sanofi Genzyme**, **Maxxis Rubber**, and **HKH Waters**, I’ve developed and delivered analytics solutions that improved processes, reduced costs, and accelerated decision-making for global stakeholders.
+Having worked at companies like **Cardinal Health**, **Sanofi Genzyme**, **Maxxis Rubber**, and **HKH Waters**, I’ve developed and delivered analytics solutions that improved processes, reduced costs, and accelerated decision-making for global stakeholders.
 
 ---
 
