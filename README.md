@@ -46,7 +46,6 @@ Having worked at companies like **Cardinal Health**, **Sanofi Genzyme**, **Maxxi
 - ✅ SQL for Data Analysis – Udemy  
 - ✅ Tableau Desktop – Udemy  
 - ✅ Excel for Data Analytics – Udemy  
-- 🎯 *Google Project Management Certificate (In Progress)*
 
 ---
 
